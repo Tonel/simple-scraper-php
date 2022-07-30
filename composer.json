@@ -1,0 +1,14 @@
+{
+    "name": "zenrows/simple-scraper-php",
+    "description": "A simple scraper in PHP based on the Simple HTML DOM library",
+    "require": {
+        "voku/simple_html_dom": "^4.8",
+        "ext-curl": "*"
+    },
+    "authors": [
+        {
+            "name": "Antonello Zanini",
+            "email": "antozanini95@gmail.com"
+        }
+    ]
+}
